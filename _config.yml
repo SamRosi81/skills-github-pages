@@ -1,4 +1,17 @@
 theme: minima
-title: SamRosi81's personal blog
-description: This is where I share cool stuff about my life
-author: SamRosi81
+
+title: "Sam Roshan | Power Platform Developer"
+description: "A portfolio of business applications, workflow automation, integrations and Microsoft Power Platform solutions."
+author: "Sam Roshan"
+
+url: "https://samrosi81.github.io"
+baseurl: "/skills-github-pages"
+
+header_pages:
+  - projects.md
+  - about.md
+  - contact.md
+
+github_username: SamRosi81
+
+markdown: kramdown
